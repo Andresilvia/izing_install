@@ -8,13 +8,13 @@ Primeiramente, você precisa fazer o download:
 ```bash
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git
-git clone https://github.com/pablowilliam/New_Izing_Intalador-2023.git
+git clone https://github.com/IconeTelecom/izing_install.git
 
 
 Agora, precisa dar as permissões:
 
 ```bash
-sudo chmod +x ./New_Izing_Intalador-2023/izing
+sudo chmod +x ./izing_install/izing
 ```
 
 ### usage
@@ -22,7 +22,7 @@ sudo chmod +x ./New_Izing_Intalador-2023/izing
 Após o download e as permissões estarem como executável, você precisa **navegar dentro** do diretório e **dar o comando com o sudo**:
 
 ```bash
-cd ./New_Izing_Intalador-2023
+cd ./izing_install
 
 ```
 
